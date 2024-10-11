@@ -1,0 +1,1 @@
+ $(MP_EXTRA_CC_PRE) -g -D__DEBUG   -fframe-base-loclist  -x c -c -mprocessor=$(MP_PROCESSOR_OPTION)  -O1 -fno-common -I"." -I"C:/ECE118" -I"C:/ECE118/include" -I"../../Encoder_Test.X"   -DXPRJ_default=$(CND_CONF)  -legacy-libc  $(COMPARISON_BUILD)  -mdfp="${DFP_DIR}"  C:\Users\bcvander\ece118-mech-final-project\New Folder\SunsetStudios.X\ActiveSearchSubHSM.c

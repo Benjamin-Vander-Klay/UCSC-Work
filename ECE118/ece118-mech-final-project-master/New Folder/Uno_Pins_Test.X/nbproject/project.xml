@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>Uno_Pins_Test</name>
+            <creation-uuid>d70fd6ae-7d72-4da6-ae02-59981449723b</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>C:\ECE118</sourceRootElem>
+                <sourceRootElem>C:\Users\bcvander\ece118-mech-final-project\New Folder\Uno_Pins_Test.X</sourceRootElem>
+                <sourceRootElem>C:\Users\Abner\Downloads\ECE118Project\ece118-mech-final-project\New Folder\Uno_Pins_Test.X</sourceRootElem>
+                <sourceRootElem>C:\Users\Abner\Projects\amspatin\projects\Lab0\Slugbot_HSM.X</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>

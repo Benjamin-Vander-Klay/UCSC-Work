@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/SunsetStudios.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>126464</length>                 
+      <used>55008</used>                     
+      <free>71456</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>16384</length>                 
+      <used>2640</used>                     
+      <free>13744</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
